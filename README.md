@@ -28,4 +28,4 @@ This Currency Converter web application allows users to convert currency from on
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/ganeshlekurwale/currency-converter.git
